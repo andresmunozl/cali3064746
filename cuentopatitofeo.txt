@@ -18,6 +18,11 @@ Había una vez un patito feo que no lo queria mamá
 
 llegó antonimi, se sentó y lo aplastó.
 
+<<<<<<< HEAD
+
+Había una vez un patito... pero se hizo la rino
+=======
+>>>>>>> ec4a6255d082ac33e3f11eebae039d6743731308
 
 
 
