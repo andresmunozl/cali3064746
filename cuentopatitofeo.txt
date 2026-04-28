@@ -1,8 +1,11 @@
 
+<<<<<<< HEAD
+=======
 Había una vez un patito...
 que quería ser águila, hasta que descubrió que nadar tranquilo también era volar a su manera.
 
 
+>>>>>>> main
 Había una vez un patito que igit ba por el rio y se perdi, (en su mirada 😊)...
 
 Había una vez un patito...
@@ -11,6 +14,8 @@ pero se hizo la rino
 Había una vez un patito...
 un pato que del cual nombre nose 
 
+<<<<<<< HEAD
+=======
 
 Había una vez un patito que iba por el río y se perdió (en su mirada 😊)
 
@@ -54,3 +59,4 @@ pero se hizo la rino
 llegó antonimi, se sentó y lo aplastó.
 ☠️☠️☠️☠️☠️☠️☠️☠️
 (〃￣︶￣)人(￣︶￣〃) equipo
+>>>>>>> main
