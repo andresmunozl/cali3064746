@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 Había una vez un patito...QUE lloraba y lloraba
 
@@ -14,4 +15,16 @@ Había una vez un patito feo que no lo queria mamá
 pero el papa si
 
 Había una vez un patito que iba por el rio y se perdio, (en su mirada 😊) era el rogón 
+=======
+Había una vez un patito que iba por el río y se perdió (en su mirada 😊)
+>>>>>>> 97fd560dd414099136b863119ea29ca5ef5de60d
 
+Había una vez un patito... QUE lloraba y lloraba
+
+Había una vez un patito... pero se hizo la rino
+
+Había una vez un patito feo que no lo quería mamá
+
+Había una vez un patito... que no se bañaba y olía feo
+
+Había una vez un patito que iba por el río y se perdió (en su mirada 😊) era el rogón
