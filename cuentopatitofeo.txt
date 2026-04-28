@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Había una vez un patito que iba por el rio y se perdi, (en su mirada 😊)
+=======
+Había una vez un patito...
+pero se hizo la rino 
+>>>>>>> e139c42957420c20a10d58dc558d9a3bf8645f63
